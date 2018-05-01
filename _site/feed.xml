@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leohc92's Diary</title>
+    <description></description>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 May 2018 20:49:17 +0800</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 20:49:17 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.0</generator>
+    
+      <item>
+        <title>开始记录每周点滴</title>
+        <description>&lt;p&gt;决定从今天起每周一次地在这里做个记录，记录这一周看过地书，看过地有趣的文章、新闻，看过的每一部电影，以及学到的任何知识，经常思考，经常记录，分享自己的经验。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 May 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/start-recording/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/start-recording/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
